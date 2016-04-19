@@ -40,7 +40,7 @@ the composer generated autoloader. I.e by adding the line:
 
 to the index.php file.
 
-8. Then point your browser to [project-folder]/vendor/urbvik/cuserbase/webroot/ 
+Then point your browser to [project-folder]/vendor/urbvik/cuserbase/webroot/ 
 and the demo site shoud work.
 
   
