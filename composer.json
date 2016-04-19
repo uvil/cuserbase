@@ -11,7 +11,7 @@
     
     "require": {
         "php": ">=5.4",
-        "mos/ctextfilter": "1.2.4",
+        "mos/ctextfilter": "dev-master",
         "mos/cdatabase": "dev-master"       
     },
     
