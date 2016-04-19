@@ -1,0 +1,16 @@
+{
+    "name": "urbvik/cuserbase",
+    
+    "description": "A simple class for user authorisation to use with AnaxMVC",
+    
+    
+    "require": {
+        "php": ">=5.4",
+        "mos/ctextfilter": "dev-master",
+        "mos/cdatabase": "dev-master"   
+    },
+    
+    "autoload": {
+        "psr-4": { "Anax\\": "src/" }
+    }
+}
